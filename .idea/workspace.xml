@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47583308-c2d8-4e7c-9369-90aba5fd8352" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/clean_instance.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/clean_instance.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/gunicorn.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/gunicorn.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/nginx.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/nginx.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/python_dependencies.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/python_dependencies.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/start_app.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/start_app.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/EmailBackEnd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/HodViews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/LoginCheckMiddleWare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/StaffViews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/StudentViews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/0002_auto_20200626_1629.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/0003_auto_20200627_0534.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/0004_auto_20200703_0740.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/0005_studentresult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management_system/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2darGXnbYejnWpsQV2NwW4XJua4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/naidu/Desktop/django-student-management-system-master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\naidu\Desktop\django-student-management-system-master" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47583308-c2d8-4e7c-9369-90aba5fd8352" name="Changes" comment="" />
+      <created>1710256934924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710256934924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
